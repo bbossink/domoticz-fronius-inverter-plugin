@@ -1,11 +1,12 @@
-Not maintained anymore.
------------------------
+Forked from Auke de Jong, al credits go to him. I forked it to make changes for my own needs. However, no changes have been made yet
+I own a Fronius IG 40 inverter
 
+--------------------------------
 # domoticz-fronius-inverter-plugin
 Domoticz Fronius Inverter plugin
 --------------------------------
 
-This version of the plugin is running on my Domoticz 3.8799 sinds 2 feb 2018 now.
+This version of the plugin is running on my Domoticz 2021.1 without any problem.
 It's not feature complete, but it's working, so I decided to share.
 
 It creates 2 devices on the Utility page.
